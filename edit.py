@@ -1,6 +1,6 @@
 import math
 import copy
-import pgm
+from pgm import *
 
 def averaging(image):
         H = len(image)
